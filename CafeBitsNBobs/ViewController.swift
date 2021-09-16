@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         swapper.layer.cornerRadius = 5
         quantity.layer.cornerRadius = 5
         commitment.layer.cornerRadius = 5
-        response.layer.cornerRadius = 5
+        response.layer.cornerRadius = 60
         viewAll.layer.cornerRadius = 5
         listType.layer.cornerRadius = 5
     }
